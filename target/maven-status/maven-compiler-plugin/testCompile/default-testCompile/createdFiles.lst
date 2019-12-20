@@ -1,0 +1,6 @@
+com/qa/shoppingAuto/pages/Home.class
+com/qa/shoppingAuto/pages/Search.class
+com/qa/shoppingAuto/pages/Item.class
+com/qa/shoppingAuto/consts/Constants.class
+com/qa/shoppingAuto/tests/TestPurchase.class
+com/qa/shoppingAuto/pages/Cart.class
